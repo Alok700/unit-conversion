@@ -13,3 +13,13 @@ A simple desktop unit conversion app built using Python and Tkinter GUI. Support
 ---
 make sure python is installed, then run: 
 python unit-conversion.py
+
+## 🔧 Features
+
+- 🔢 Volume, Mass, and Area conversions
+- 🔁 Two-way unit selection (from & to)
+- 🎛️ Dynamic dropdowns based on unit type
+- ✅ Input validation with error handling
+- 🧮 Accurate conversion calculations
+- 🖥️ Simple and responsive Tkinter UI
+- 🧩 No external libraries required
